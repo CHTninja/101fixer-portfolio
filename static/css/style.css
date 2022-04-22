@@ -2770,7 +2770,7 @@ img.lazy-image.loaded {
   font-size: 50px;
   line-height: 1em;
   color: #ffffff;
-  opacity: 0.7;
+  opacity: 0.3;
 }
 
 .service-block {
@@ -2832,7 +2832,7 @@ img.lazy-image.loaded {
   position: absolute;
   right: 45px;
   top: 50px;
-  color: var(--thm-base);
+  color: #ffffff;
   font-size: 64px;
   line-height: 1em;
   transition: all 0.5s ease;
