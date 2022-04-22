@@ -1,6 +1,10 @@
 # 101fixer
 
+<<<<<<< HEAD
 > 101Fixer - Vue Nuxt Website
+=======
+> 101Fixer - Vue Nuxt website
+>>>>>>> 0a2db54d7edbe3d0b481a4c5403932a09c80d0a8
 
 ## Build Setup
 
