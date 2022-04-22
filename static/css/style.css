@@ -89,7 +89,7 @@
 
 :root {
   --thm-font: "Teko", sans-serif;
-  --thm-base: #ffaa17;
+  --thm-base: #0c458a;
   --thm-base-rgb: 255, 170, 23;
   --thm-black: #222429;
   --thm-text: #686a6f;
@@ -103,7 +103,7 @@ body {
   background: #ffffff;
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
-  font-family: var(--thm-font);
+  font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
   top: 0 !important;
 }
 
@@ -1619,7 +1619,7 @@ img.lazy-image.loaded {
 
 .banner-three .left-based-text .social-links ul li a,
 .banner-three .left-based-text .hours ul li {
-  color: var(--thm-black);
+  color: #ffffff;
 }
 
 .banner-section .left-based-text .social-links ul li a:before {
@@ -1790,7 +1790,7 @@ img.lazy-image.loaded {
   bottom: -500px;
   width: 1000px;
   height: 1000px;
-  background: rgba(255, 255, 255, 0.2);
+  background: #5e8e3e9c;
   border-radius: 50%;
   z-index: 2;
   opacity: 0;
@@ -2150,7 +2150,7 @@ img.lazy-image.loaded {
 
 .banner-three .banner-carousel .content-box h1 {
   font-size: 120px;
-  color: var(--thm-black);
+  color: #ffffff;
   font-weight: 500;
 }
 
@@ -2187,7 +2187,7 @@ img.lazy-image.loaded {
   font-weight: 300;
   line-height: 1.7em;
   letter-spacing: 0.07em;
-  color: var(--thm-black);
+  color: #ffffff;
   margin: 5px 0 0;
   opacity: 0;
   -webkit-transform: translateY(80px);
@@ -2770,7 +2770,7 @@ img.lazy-image.loaded {
   font-size: 50px;
   line-height: 1em;
   color: #ffffff;
-  opacity: 0.07;
+  opacity: 0.7;
 }
 
 .service-block {
@@ -2782,7 +2782,7 @@ img.lazy-image.loaded {
   position: relative;
   display: block;
   padding: 50px 45px;
-  background: #1c1e22;
+  background: #5E8E3E;
   min-height: 100%;
   border-radius: 7px;
   overflow: hidden;
@@ -2794,7 +2794,7 @@ img.lazy-image.loaded {
 }
 
 .service-block .inner-box:hover {
-  background: var(--thm-base);
+  background: #95BF47;
 }
 
 .service-block .inner-box .bottom-curve {
@@ -2843,7 +2843,7 @@ img.lazy-image.loaded {
 }
 
 .service-block .inner-box:hover .icon-box {
-  color: var(--thm-black);
+  color: #ffffff;
 }
 
 .service-block .inner-box h6 {
@@ -2865,13 +2865,15 @@ img.lazy-image.loaded {
   -webkit-transition: all 0.5s ease;
   -ms-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
+  font-size: 40px;
+  line-height: 1;
 }
 
 .services-section .row .service-block .inner-box:hover:before,
 .service-block .inner-box:hover .count,
 .service-block .inner-box:hover h6,
 .service-block .inner-box:hover h6 a {
-  color: var(--thm-black);
+  color: #ffffff;
 }
 
 .service-block .inner-box h6 a:hover {

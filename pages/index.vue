@@ -1,7 +1,7 @@
 <template>
   <div>
     <Nav />
-    <Banner />
+    <BannerThree />
     <Services />
     <About />
     <LiveSection />
@@ -22,6 +22,7 @@
 <script>
 
   import Nav from "../components/Nav";
+  import BannerThree from "../components/BannerThree";
   import Banner from "../components/Banner";
   import Services from "../components/Services";
   import About from "../components/About";
@@ -55,6 +56,7 @@
       About,
       Services,
       Banner,
+      BannerThree,
       Nav
 
     }
