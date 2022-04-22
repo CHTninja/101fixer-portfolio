@@ -1,6 +1,6 @@
-# apiton
+# 101fixer
 
-> Apiton - Vue Nuxt App Landing Page Template
+> 101Fixer - Vue Nuxt website
 
 ## Build Setup
 
